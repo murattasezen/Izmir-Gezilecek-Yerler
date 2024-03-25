@@ -1,0 +1,62 @@
+/* Temel stiller buraya gelecek */
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Görsel Boyut Ayarlama</title>
+    <style>
+        .image {
+            width: 300px; /* Genişlik */
+            height: auto; /* Otomatik yükseklik ayarlama */
+        }
+    </style>
+</head>
+<body>
+    <img src="logo.jpeg" alt="Resim" class="image">
+</body>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #FFDAB9;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #BDB76B;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
