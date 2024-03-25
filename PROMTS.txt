@@ -1,0 +1,59 @@
+WEB SİTESİ GENEL ŞABLON VE DÜZENLEME İÇİN "CHAT GPT" KULLANILMIŞTIR, GÖRSELLERİN OLUŞTURULMASI İÇİN İSE "OPENART.AI" KULLANILMIŞTIR.
+
+WEB SİTESİ PROMTLARI SIRASIYLA
+1- WEB SİTESİ GENEL ŞABLON KURALI İÇİN 2 PROMT KULLANILMIŞTIR.
+A.
+Bir ön web geliştiricisi olarak çalışmanızı istiyorum
+Merhaba Chatgpt
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız:
+HTML,CSS için CDN'yi kullanan bootstrap çerçevesi ve Javascript.
+Web sitesi mobile uyumlu ve duyarlı olmalıdır.
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir.
+HTML,CSS ve javascript kodlarını ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlatılar içeren bir gezinme menüsü de eklemelisiniz.
+Yazdığınız kodların hiçbirine açıklama yapmayın.
+Her şeyi anlıyor musun?
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+B.
+websitem bir porfolio galeri websitesi ve burada izmirin tarihi yer önerilerini paylaşmak istiyorum websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+bana bu websitesini oluşturmamda yardımcı olur musun ?
+_____________________________________________________________________________
+
+2-LOGO VE GÖRSELLER HİZALAMA İÇİN PROMT
+A.
+bir görseli web sayfasının logosu olarak sağ üst köşeye sabit olarak 45x45 boyutlarında nasıl html olarak eklerim
+
+B.
+html de fotoğraf ekleyip ölçü vererek satırın ortasında göstermek
+
+C.
+HTML web sitesi içerisinde metin renk kodları
+_____________________________________________________________________________
+
+3- TARİH SATIRI BİLGİSİ PROMTS
+İzmirin tarihi yerlerini gösteren bir galeri sitesi yapıyorum ve bunun için tarih bilgisi alanında İzmirin tarihi hakkında genel bilgi ihtiyacım bulunuyor bu konuda yardımcı olabilir misin?
+_____________________________________________________________________________
+
+4-İLETİŞİM SATIRI BİLGİSİ PROMTS
+https://tr.linkedin.com/in/murattasezen linkini html linki olarak yazar mısın
+
+_________________________________________________________________________
+
+GÖRSELLERİN OLUŞTURULMASI İÇİN PROMTSLAR SIRASIYLA
+
+**LOGO**
+İzmir historical landmark gallery website logo, ancient ruins, vibrant colors, detailed illustration, high quality, digital art, Mediterranean aesthetic, detailed stone architecture, warm sunlight, vibrant colors, professional design, modern-vintage fusion
+
+1.FOTOĞRAF
+10 realistic photos of historic places in Izmir, vibrant color tones, sunny Mediterranean lighting, high quality, detailed architecture, coastal view, bustling city life, ancient ruins, lively street markets, historical landmarks, scenic cityscape, lively atmosphere, detailed textures, coastal architecture, authentic Mediterranean vibe, historical charm, travel photography
+
+2.FOTOĞRAF
+Illustration of İzmir Clock Tower in a vibrant, colorful, and lively style, detailed architecture with Ottoman influence, warm and inviting lighting, clear blue sky, bustling street scene, high quality, vivid colors, detailed architecture, Ottoman style, warm lighting, vibrant atmosphere, clear sky
+
+3.FOTOĞRAF
+Detailed illustration of Kadifekale, warm and vibrant color tones, historical fortress on a hill, overlooking the city of Izmir, majestic and imposing structure, Mediterranean architectural details, vibrant greenery, ancient ruins, high quality, detailed, historical, Mediterranean, warm tones, vibrant colors, scenic view
+
+4.FOTOĞRAF
+İzmir Agora Antik Kenti illustration, digital painting, ancient ruins, vibrant historical atmosphere, detailed architectural elements, warm earthy tones, golden hour lighting, high quality, historical, realistic, detailed stone columns, bustling ancient marketplace, picturesque scene, professional, realistic lighting
+
